@@ -5,7 +5,7 @@
    "version": "0.2.0",
    "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": "ej_1",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
@@ -13,6 +13,48 @@
             "program": "${workspaceRoot}/P1/ej_1/bin/Debug/netcoreapp2.0/ej_1.dll",
             "args": [],
             "cwd": "${workspaceRoot}/P1/ej_1",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": "ej_4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceRoot}/P1/ej_4/bin/Debug/netcoreapp2.0/ej_4.dll",
+            "args": [],
+            "cwd": "${workspaceRoot}/P1/ej_4",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": "ej_6",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceRoot}/P1/ej_6/bin/Debug/netcoreapp2.0/ej_6.dll",
+            "args": [],
+            "cwd": "${workspaceRoot}/P1/ej_6",
+            // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": "ej_9",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceRoot}/P1/ej_9/bin/Debug/netcoreapp2.0/ej_9.dll",
+            "args": [],
+            "cwd": "${workspaceRoot}/P1/ej_9",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,
