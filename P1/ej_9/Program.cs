@@ -20,8 +20,7 @@ namespace ej_9
             System.Console.WriteLine("Presione una tecla para continuar");
             System.Console.ReadKey(true);
 
-            /* ejercicio 10 */
-            /* si, se puede hacer un "ReadLine" dentro del "WriteLine" y almacenar su respuesta en "st" */
+            /* ejercicio 11 */
             Console.WriteLine("Ingrese un texto simetrico respecto del caracter \" \" (blanco):");
             st = Console.ReadLine();
             if (st.Length % 2 == 1 && st[st.Length / 2] == ' ')
@@ -53,7 +52,6 @@ namespace ej_9
             System.Console.ReadKey(true);
 
             /* ejercicio 12 */
-            /* si, se puede hacer un "ReadLine" dentro del "WriteLine" y almacenar su respuesta en "st" */
             for (int i = 1; i <= 1000; i++)
             {
                 if (i % 17 == 0)
