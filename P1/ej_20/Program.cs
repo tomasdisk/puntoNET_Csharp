@@ -33,7 +33,7 @@ namespace ej_20
             Console.WriteLine("Presione una tecla para continuar");
             Console.ReadKey(true);
 
-            /* ejercicio 21 */
+            /* ejercicio 22 */
             /* en el primer 'if' a la variable 'i' se le decremente una unidad previo a la evaluacion de la condicion. En el segundo 'if' se le incremente una unidad postriormente a la evaluacion de la condicion*/
             int i = 1;
             if (--i == 0)

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomm\\puntoNET_Csharp\\P1\\ej_1\\ej_1.csproj",
-      "projectName": "ej_1",
-      "projectPath": "C:\\Users\\tomm\\puntoNET_Csharp\\P1\\ej_1\\ej_1.csproj",
+      "projectUniqueName": "C:\\Users\\tomm\\puntoNET_Csharp\\P2\\ej_8\\ej_8.csproj",
+      "projectName": "ej_8",
+      "projectPath": "C:\\Users\\tomm\\puntoNET_Csharp\\P2\\ej_8\\ej_8.csproj",
       "packagesPath": "C:\\Users\\tomm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomm\\puntoNET_Csharp\\P1\\ej_1\\obj\\",
+      "outputPath": "C:\\Users\\tomm\\puntoNET_Csharp\\P2\\ej_8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
