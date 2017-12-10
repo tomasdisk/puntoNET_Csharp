@@ -1,0 +1,10 @@
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\bin\Debug\netcoreapp2.0\ej15.deps.json
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\bin\Debug\netcoreapp2.0\ej15.runtimeconfig.json
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\bin\Debug\netcoreapp2.0\ej15.runtimeconfig.dev.json
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\bin\Debug\netcoreapp2.0\ej15.dll
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\bin\Debug\netcoreapp2.0\ej15.pdb
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\obj\Debug\netcoreapp2.0\ej15.csproj.CoreCompileInputs.cache
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\obj\Debug\netcoreapp2.0\ej15.AssemblyInfoInputs.cache
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\obj\Debug\netcoreapp2.0\ej15.AssemblyInfo.cs
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\obj\Debug\netcoreapp2.0\ej15.dll
+C:\Users\tomm\puntoNET_Csharp\P7\ej15\obj\Debug\netcoreapp2.0\ej15.pdb
