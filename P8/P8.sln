@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej3", "ej3\ej3.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej1b", "ej1b\ej1b.csproj", "{F2ABF75C-331E-4090-9EF2-7F6AD14ADC24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej2b", "ej2b\ej2b.csproj", "{0D09E15D-9F09-4F2E-9A97-F15F35E25B5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +28,9 @@ Global
 		{F2ABF75C-331E-4090-9EF2-7F6AD14ADC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2ABF75C-331E-4090-9EF2-7F6AD14ADC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2ABF75C-331E-4090-9EF2-7F6AD14ADC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D09E15D-9F09-4F2E-9A97-F15F35E25B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D09E15D-9F09-4F2E-9A97-F15F35E25B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D09E15D-9F09-4F2E-9A97-F15F35E25B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D09E15D-9F09-4F2E-9A97-F15F35E25B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
