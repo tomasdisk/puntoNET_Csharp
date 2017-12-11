@@ -33,6 +33,7 @@ namespace ej2b
 		private System.Windows.Forms.Label label5;
 		private System.Windows.Forms.Timer timer1;
 		private System.Windows.Forms.NumericUpDown numericUpDown1;
+		private System.Windows.Forms.ColorDialog colorDialog1;
 		
 		/// <summary>
 		/// Disposes resources used by the form.
@@ -57,6 +58,8 @@ namespace ej2b
 		{
 			this.components = new System.ComponentModel.Container();
 			this.panel1 = new System.Windows.Forms.Panel();
+			this.panel2 = new System.Windows.Forms.Panel();
+			this.label1 = new System.Windows.Forms.Label();
 			this.groupBox4 = new System.Windows.Forms.GroupBox();
 			this.label3 = new System.Windows.Forms.Label();
 			this.label2 = new System.Windows.Forms.Label();
@@ -72,16 +75,15 @@ namespace ej2b
 			this.button1 = new System.Windows.Forms.Button();
 			this.checkBox1 = new System.Windows.Forms.CheckBox();
 			this.comboBox1 = new System.Windows.Forms.ComboBox();
-			this.panel2 = new System.Windows.Forms.Panel();
-			this.label1 = new System.Windows.Forms.Label();
 			this.timer1 = new System.Windows.Forms.Timer(this.components);
+			this.colorDialog1 = new System.Windows.Forms.ColorDialog();
 			this.panel1.SuspendLayout();
+			this.panel2.SuspendLayout();
 			this.groupBox4.SuspendLayout();
 			this.groupBox3.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
 			this.groupBox2.SuspendLayout();
 			this.groupBox1.SuspendLayout();
-			this.panel2.SuspendLayout();
 			this.SuspendLayout();
 			// 
 			// panel1
@@ -96,6 +98,28 @@ namespace ej2b
 			this.panel1.Name = "panel1";
 			this.panel1.Size = new System.Drawing.Size(371, 467);
 			this.panel1.TabIndex = 0;
+			// 
+			// panel2
+			// 
+			this.panel2.BackColor = System.Drawing.Color.White;
+			this.panel2.Controls.Add(this.label1);
+			this.panel2.Location = new System.Drawing.Point(12, 12);
+			this.panel2.Name = "panel2";
+			this.panel2.Size = new System.Drawing.Size(347, 178);
+			this.panel2.TabIndex = 0;
+			// 
+			// label1
+			// 
+			this.label1.AutoSize = true;
+			this.label1.BackColor = System.Drawing.Color.Lime;
+			this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.Location = new System.Drawing.Point(123, 65);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(65, 22);
+			this.label1.TabIndex = 0;
+			this.label1.Text = "Palabra";
+			this.label1.Click += new System.EventHandler(this.Label1Click);
 			// 
 			// groupBox4
 			// 
@@ -258,28 +282,6 @@ namespace ej2b
 			this.comboBox1.Size = new System.Drawing.Size(121, 21);
 			this.comboBox1.TabIndex = 0;
 			// 
-			// panel2
-			// 
-			this.panel2.BackColor = System.Drawing.Color.White;
-			this.panel2.Controls.Add(this.label1);
-			this.panel2.Location = new System.Drawing.Point(12, 12);
-			this.panel2.Name = "panel2";
-			this.panel2.Size = new System.Drawing.Size(347, 178);
-			this.panel2.TabIndex = 0;
-			// 
-			// label1
-			// 
-			this.label1.AutoSize = true;
-			this.label1.BackColor = System.Drawing.Color.Lime;
-			this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(123, 65);
-			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(65, 22);
-			this.label1.TabIndex = 0;
-			this.label1.Text = "Palabra";
-			this.label1.Click += new System.EventHandler(this.Label1Click);
-			// 
 			// timer1
 			// 
 			this.timer1.Enabled = true;
@@ -298,13 +300,13 @@ namespace ej2b
 			this.Name = "MainForm";
 			this.Text = "Ejercicio2";
 			this.panel1.ResumeLayout(false);
+			this.panel2.ResumeLayout(false);
+			this.panel2.PerformLayout();
 			this.groupBox4.ResumeLayout(false);
 			this.groupBox3.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
 			this.groupBox2.ResumeLayout(false);
 			this.groupBox1.ResumeLayout(false);
-			this.panel2.ResumeLayout(false);
-			this.panel2.PerformLayout();
 			this.ResumeLayout(false);
 
 		}

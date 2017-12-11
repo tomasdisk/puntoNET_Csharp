@@ -77,7 +77,9 @@ namespace ej2b
 		void Label1Click(object sender, EventArgs e)
 		{
 			//color
-			
+			if (colorDialog1.ShowDialog() == DialogResult.OK) {
+				label1.BackColor = colorDialog1.Color;
+			}
 		}
 		void NumericUpDown1ValueChanged(object sender, EventArgs e)
 		{
