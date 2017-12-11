@@ -1,0 +1,6 @@
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\obj\Debug\ej3.csprojResolveAssemblyReference.cache
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\bin\Debug\ej3.exe.config
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\bin\Debug\ej3.exe
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\bin\Debug\ej3.pdb
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\obj\Debug\ej3.exe
+C:\Users\tomm\puntoNET_Csharp\P8\ej3\obj\Debug\ej3.pdb

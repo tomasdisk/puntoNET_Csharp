@@ -1,0 +1,8 @@
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\bin\Debug\ej1b.exe.config
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\bin\Debug\ej1b.exe
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\bin\Debug\ej1b.pdb
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\obj\Debug\ej1b.csprojResolveAssemblyReference.cache
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\obj\Debug\ej1b.MainForm.resources
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\obj\Debug\ej1b.csproj.GenerateResource.Cache
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\obj\Debug\ej1b.exe
+C:\Users\tomm\puntoNET_Csharp\P8\ej1b\obj\Debug\ej1b.pdb
