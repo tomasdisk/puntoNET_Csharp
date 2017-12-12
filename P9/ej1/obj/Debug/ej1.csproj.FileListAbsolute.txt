@@ -1,0 +1,8 @@
+D:\Documents\SharpDevelop Projects\P9\ej1\obj\Debug\ej1.csprojResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\P9\ej1\obj\Debug\ej1.MainForm.resources
+D:\Documents\SharpDevelop Projects\P9\ej1\obj\Debug\ej1.csproj.GenerateResource.Cache
+D:\Documents\SharpDevelop Projects\P9\ej1\bin\Debug\ej1.exe.config
+D:\Documents\SharpDevelop Projects\P9\ej1\bin\Debug\ej1.exe
+D:\Documents\SharpDevelop Projects\P9\ej1\bin\Debug\ej1.pdb
+D:\Documents\SharpDevelop Projects\P9\ej1\obj\Debug\ej1.exe
+D:\Documents\SharpDevelop Projects\P9\ej1\obj\Debug\ej1.pdb

@@ -6,3 +6,11 @@ C:\Users\tomm\puntoNET_Csharp\P8\ej2b\bin\Debug\ej2b.exe
 C:\Users\tomm\puntoNET_Csharp\P8\ej2b\bin\Debug\ej2b.pdb
 C:\Users\tomm\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.exe
 C:\Users\tomm\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.pdb
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\bin\Debug\ej2b.exe.config
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\bin\Debug\ej2b.exe
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\bin\Debug\ej2b.pdb
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.MainForm.resources
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.exe
+C:\Users\Carlos\Documents\puntoNET_Csharp\P8\ej2b\obj\Debug\ej2b.pdb
