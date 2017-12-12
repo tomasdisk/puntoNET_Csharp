@@ -1,6 +1,8 @@
 # puntoNET_Csharp
 Practicas de taller de lenguaje .NET
 
+De la practica 1 a la 7 fueron resueltas con Visual Studio Code y de la 8 a la 10 con SharpDevelop.
+
 ## Entregables
 
 * [Practica 4 - Ejercicio 9](P4/ej9)
