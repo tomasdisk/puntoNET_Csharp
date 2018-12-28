@@ -1,6 +1,6 @@
 # puntoNET_Csharp
 Practicas de taller de lenguaje .NET
-
+hola
 De la practica 1 a la 7 fueron realizadas con Visual Studio Code y de la 8 a la 10 con SharpDevelop.
 
 ## Entregables
